@@ -1,0 +1,1 @@
+// contains effects for Chat Messages component

@@ -1,0 +1,1 @@
+// contains effects for Message Header component
